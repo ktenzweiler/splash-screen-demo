@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Start.App" parent="Theme.SplashScreenDemo">
+
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/mangoburrito_03_2x</item>
+
+        <item name="android:windowSplashScreenBackground">@color/purple_700</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.SplashScreenDemo</item>
+
+    </style>
+</resources>
